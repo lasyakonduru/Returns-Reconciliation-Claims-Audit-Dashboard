@@ -2,6 +2,8 @@
 
 This project presents a comprehensive Power BI dashboard built to simulate and analyze return mismatches between suppliers and manufacturers. Using a synthetic dataset generated in Python, this dashboard visualizes late returns, quantity mismatches, claim status inconsistencies, and supplier performance metrics—enabling faster, data-driven decisions in return audits.
 
+![Dashboard Image](./Returns_Reconciliation_&_claims_Audit_Dashboard.png)
+
 ## 📊 Project Overview
 
 Returns reconciliation is a critical process for businesses managing high-volume logistics and supplier contracts. This dashboard serves as a **prototype audit solution** that automates mismatch detection, return validation, and supplier risk assessment.
